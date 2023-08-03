@@ -6,4 +6,4 @@ The app also has a whopping 1% per second compound interest rate on the balance,
 
 <img width="463" alt="Screenshot 2023-08-03 at 18 53 01" src="https://github.com/lesliemw/Dcentralized_Banking_App/assets/114259884/3c804f6a-0fcc-45e8-b3f3-2a4430025b7a">
 
-**As this was done as part of a bootcamp, the Motoko code was written by following along with my tutor. However, the vast majority of the Javascript was written by me (there were a few palces where I needed help to integrate the Motoko with the Javascript.**
+**As this was done as part of a bootcamp, the Motoko code was written by following along with my tutor. However, the vast majority of the Javascript was written by me (there were a few places where I needed help to integrate the Motoko with the Javascript.**
